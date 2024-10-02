@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![download](https://github.com/user-attachments/assets/b2a88256-471c-48b1-aa39-847510f782f7)
 
 I'm Jonathan Halls, a proactive Cybersecurity Analyst based in the USA with a passion for learning and implementing cybersecurity ideas and frameworks. Specializing in penetration testing and blue teaming, I have developed specific skills in SQL, Python, and command-line interfaces (CLIs).
