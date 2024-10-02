@@ -4,7 +4,7 @@
 
 Proactive Cybersecurity Analyst based in the USA with a passion for learning and implementing cybersecurity ideas and frameworks. Specializing in penetration testing and blue teaming, I have developed specific skills in SQL, Python, and command-line interfaces (CLIs).
 
-## Skills and Experience
+### Skills and Experience
 🐧 Linux
 🐍 Python
 🎩 Purple Teaming
