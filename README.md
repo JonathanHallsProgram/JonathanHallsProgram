@@ -19,6 +19,5 @@ For more information about my professional background and experiences, please vi
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanHalls)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="giphy.webp" width="600" />
