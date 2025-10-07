@@ -2,7 +2,7 @@
 
 # Jonathan Halls
 
-Proactive Cybersecurity Analyst based in the USA with a passion for learning and implementing cybersecurity ideas and frameworks. Specializing in SIEM Deployments and Cyber Analysis, I have developed specific skills in Azure, Splunk, & Ticketing systems.
+Proactive Cybersecurity Analyst based in the USA with a passion for learning and implementing cybersecurity ideas and frameworks. Specializing in SIEM Deployments and Cyber Analysis, I have developed specific skills in Solo Enterprise level network deployment, CI/CD systems and Full Stack Web Development.
 
 ## Skills and Experience
 *   🐧 Linux Sysadmin
@@ -10,6 +10,8 @@ Proactive Cybersecurity Analyst based in the USA with a passion for learning and
 *   🛡️ Data Security
 
 *   🔌 Network Engineering
+
+*   Since 2024, I have been working as a Cybersecurity Analyst solving many problems from CSIRT to Network deployment
 
 In my spare time, I enjoy hands on testing of new technologies to enhance my expertise. My commitment to continuous learning drives me to stay updated with the latest cybersecurity trends and methodologies. I am dedicated to protecting organizations by identifying vulnerabilities and developing robust security measures.
 
